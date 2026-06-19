@@ -1,17 +1,23 @@
-# To-Do List Application
+# Expense Tracker
 
 ## Description
-A simple Python To-Do List application that allows users to:
-- Add tasks
-- View tasks
-- Exit the application
+A Python application that allows users to enter multiple expenses and calculates the total amount spent.
+
+## Features
+- Add multiple expenses
+- Calculate total spending
+- Input validation
+- Simple command-line interface
 
 ## Concepts Used
-- Python Lists
+- Variables
 - Loops
 - User Input
-- append()
+- Mathematical Operations
+- Accumulator Pattern
 
 ## Author
 Javeria Ashraf
-DecodeLabs Python Internship - Week 1
+DecodeLabs Python Internship
+Week 2 Project
+
